@@ -1,2 +1,6 @@
 This is first 
-This is an edit from bugfix branch.
+<<<<<<< HEAD
+
+This is an edit from testing branch.
+>>>>>>> testing
+blah blah
